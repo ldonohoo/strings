@@ -1,0 +1,14 @@
+/Users/lisa/Documents/code/csharp/strings/bin/Debug/net7.0/strings
+/Users/lisa/Documents/code/csharp/strings/bin/Debug/net7.0/strings.deps.json
+/Users/lisa/Documents/code/csharp/strings/bin/Debug/net7.0/strings.runtimeconfig.json
+/Users/lisa/Documents/code/csharp/strings/bin/Debug/net7.0/strings.dll
+/Users/lisa/Documents/code/csharp/strings/bin/Debug/net7.0/strings.pdb
+/Users/lisa/Documents/code/csharp/strings/obj/Debug/net7.0/strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lisa/Documents/code/csharp/strings/obj/Debug/net7.0/strings.AssemblyInfoInputs.cache
+/Users/lisa/Documents/code/csharp/strings/obj/Debug/net7.0/strings.AssemblyInfo.cs
+/Users/lisa/Documents/code/csharp/strings/obj/Debug/net7.0/strings.csproj.CoreCompileInputs.cache
+/Users/lisa/Documents/code/csharp/strings/obj/Debug/net7.0/strings.dll
+/Users/lisa/Documents/code/csharp/strings/obj/Debug/net7.0/refint/strings.dll
+/Users/lisa/Documents/code/csharp/strings/obj/Debug/net7.0/strings.pdb
+/Users/lisa/Documents/code/csharp/strings/obj/Debug/net7.0/strings.genruntimeconfig.cache
+/Users/lisa/Documents/code/csharp/strings/obj/Debug/net7.0/ref/strings.dll
